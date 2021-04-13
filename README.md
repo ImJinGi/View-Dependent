@@ -39,4 +39,5 @@ etc.
 https://www.youtube.com/watch?v=ft_8j8A2JJ8
 
 ## Preview
-https://github.com/ImJinGi/View-Dependent/issues/1#issue-856557057
+![그림23_RGB](https://user-images.githubusercontent.com/13390462/114496840-c0785280-9c5b-11eb-9e0e-bf2218b61fae.png)
+
