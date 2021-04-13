@@ -110,6 +110,7 @@ int main(void)
 		std::cout << "glfw is not initilaize" << std::endl;
 	}
 
+	std::cout << glfwGetVersionString() << std::endl;
 
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 4);
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 4);

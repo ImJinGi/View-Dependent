@@ -138,9 +138,9 @@ MyGlWindow::MyGlWindow(int w, int h)
 	////////////////////////////
 
 	spotLightPos = glm::vec4(0.0f, 7.0f, 0.0f, 1.0f);
-	//spotLightIntensity = glm::vec3(1.0f, 1.0f, 1.0f);
-	spotLightIntensity = glm::vec3(0.1f, 0.1f, 0.1f);
-	spotLightColor = glm::vec3(0.3, 0.3, 0.8);
+	spotLightIntensity = glm::vec3(1.0f, 1.0f, 1.0f);
+	//spotLightIntensity = glm::vec3(0.1f, 0.1f, 0.1f);
+	spotLightColor = glm::vec3(1.0, 0.0, 0.0);
 
 	spotExponent = 10.0f;
 	spotInnerCutoff = 15.0f;
